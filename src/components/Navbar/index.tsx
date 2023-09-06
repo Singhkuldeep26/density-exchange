@@ -8,7 +8,8 @@ const Navbar = () => {
             elevation={3}>
 
                 <div>
-                    Meet the ahead app
+                    <p>built out of frustration</p>
+                    <h1>Meet the ahead app</h1>
                 </div>
 
                 <div>
@@ -19,4 +20,4 @@ const Navbar = () => {
     </div>
 }
 
-export default Navbar
+export default Navbar;

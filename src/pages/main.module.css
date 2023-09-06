@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+}
+.leftdiv{
+    display: flex;
+    width: 50%;
+}
+.p{
+    margin: 20px;
+    padding: auto;
+}
+.rightdiv{
+    display: flex;
+    width:50%
+}
+.span{
+    margin: 10px;
+    margin-left: 0px;
+    padding: auto;
+    padding-top: 2%;
+}
